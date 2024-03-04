@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/http//anow47.github.io/rest-countries-api/static/css/main.0994d04a.css",
+    "main.js": "/http//anow47.github.io/rest-countries-api/static/js/main.44cefaf2.js",
+    "static/js/453.62f49430.chunk.js": "/http//anow47.github.io/rest-countries-api/static/js/453.62f49430.chunk.js",
+    "index.html": "/http//anow47.github.io/rest-countries-api/index.html",
+    "main.0994d04a.css.map": "/http//anow47.github.io/rest-countries-api/static/css/main.0994d04a.css.map",
+    "main.44cefaf2.js.map": "/http//anow47.github.io/rest-countries-api/static/js/main.44cefaf2.js.map",
+    "453.62f49430.chunk.js.map": "/http//anow47.github.io/rest-countries-api/static/js/453.62f49430.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0994d04a.css",
+    "static/js/main.44cefaf2.js"
+  ]
+}
