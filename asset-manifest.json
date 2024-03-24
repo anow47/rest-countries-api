@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/https//anow47.github.io/rest-countries-api/static/css/main.99742289.css",
-    "main.js": "/https//anow47.github.io/rest-countries-api/static/js/main.caede18c.js",
-    "static/js/453.62f49430.chunk.js": "/https//anow47.github.io/rest-countries-api/static/js/453.62f49430.chunk.js",
-    "index.html": "/https//anow47.github.io/rest-countries-api/index.html",
-    "main.99742289.css.map": "/https//anow47.github.io/rest-countries-api/static/css/main.99742289.css.map",
-    "main.caede18c.js.map": "/https//anow47.github.io/rest-countries-api/static/js/main.caede18c.js.map",
-    "453.62f49430.chunk.js.map": "/https//anow47.github.io/rest-countries-api/static/js/453.62f49430.chunk.js.map"
+    "main.css": "/rest-countries-api/static/css/main.99742289.css",
+    "main.js": "/rest-countries-api/static/js/main.1dd2991a.js",
+    "static/js/453.62f49430.chunk.js": "/rest-countries-api/static/js/453.62f49430.chunk.js",
+    "index.html": "/rest-countries-api/index.html",
+    "main.99742289.css.map": "/rest-countries-api/static/css/main.99742289.css.map",
+    "main.1dd2991a.js.map": "/rest-countries-api/static/js/main.1dd2991a.js.map",
+    "453.62f49430.chunk.js.map": "/rest-countries-api/static/js/453.62f49430.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.99742289.css",
-    "static/js/main.caede18c.js"
+    "static/js/main.1dd2991a.js"
   ]
 }
