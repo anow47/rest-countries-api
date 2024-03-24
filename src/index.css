@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root{
+  --VeryDarkBlue: hsl(207, 26%, 17%);
+  --LightModeText: hsl(200, 15%, 8%);
+  --LightModeInput: hsl(0, 0%, 52%);
+  --LightModeBackground: hsl(0, 0%, 98%);
+  --DarkModeElements: hsl(209, 23%, 22%);
+  --LightModeElements: hsl(0, 0%, 100%);
+}
+.flex{
+  display: flex;
+}
+.align-items-center{
+  align-items: center;
+}
+.justify-content-between{
+  justify-content: space-between;
+}
+.justify-content-center{
+  justify-content: center;
+}
+body {
+  font-family: "Nunito Sans";
+}
+
+

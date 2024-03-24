@@ -1,0 +1,65 @@
+/* Dark Mode */
+.dark-mode {
+    background-color: var(--VeryDarkBlue);
+    color: var(--LightModeBackground); /* Add appropriate text color for better contrast */
+}
+/* Light Mode */
+.light-mode {
+    background-color: var(--LightModeBackground);
+    color: var(--DarkModeElements); /* Add appropriate text color for better contrast */
+}
+
+.dark-mode-btn{
+    border: none;
+    background: transparent;
+    color: var(--LightModeBackground);
+    cursor: pointer;
+}
+header{
+    width: 100%;
+    padding: 15px 70px;
+    box-shadow: 0 0 5px 1px rgba(0,0,0, 0.5);
+    background-color: var(--DarkModeElements);
+    position: fixed;
+    z-index: 3;
+}
+.nav h1, span{
+    color: var(--LightModeBackground);
+}
+.nav h1{
+    font-size: 1rem;
+}
+.nav span{
+    font-size: 0.8rem
+}
+/** Main **/
+main{
+    padding-left: 70px;
+    padding-right: 70px;
+}
+.input-container{
+    padding-top: 6rem;
+    padding-bottom: 2rem;
+}
+.search{
+    width: 22rem;
+    outline: none;
+}
+.input-container input, select{
+    background-color: var(--DarkModeElements);
+    border: none;
+    padding: 0.7rem 1rem;
+    color: var(--LightModeElements);
+    border-radius: 5px;
+}
+select{
+    width: 10rem;
+    outline: none;
+}
+option{
+    padding: 0.5rem 0;
+    border: 1px solid;
+}
+::placeholder{
+    color: var(--LightModeBackground);
+}

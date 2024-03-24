@@ -1,0 +1,77 @@
+/** Country Info **/
+.country-container{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+.card{
+    width: 200px;
+    background-color: var(--DarkModeElements);
+    border-radius: 5px;
+    cursor: pointer;
+}
+.card-info{
+    padding: 1rem;
+    flex-direction: column;
+}
+.country-img{
+    height: 100px;
+    width: 200px;
+    border-radius: 5px 5px 0 0;
+}
+.country-img-info{
+    width: 500px;
+    border-radius: 5px 5px 0 0;
+}
+.country-name{
+    font-size: 1rem;
+    color: var(--LightModeElements);
+    padding-bottom: 0.5rem;
+}
+.outter-span{
+    font-size: 0.8rem;
+    padding: 0.1rem 0;
+}
+.outter-span-info{
+    font-size: 1rem;
+    padding: 0.2rem 0;
+}
+.inner-span{
+    color: var(--LightModeInput);
+}
+.country-info{
+    padding: 70px;
+    width: 100%;
+    min-height: 100dvh;
+    background-color: var(--DarkModeElements);
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+.country-name-info{
+    color: var(--LightModeElements);
+    padding-bottom: 0.5rem;
+    font-size: 1.7rem;
+}
+.left, .right{
+    display: flex;
+    flex-direction: column;
+}
+.country-info-container{
+    width: 50%;
+}
+.left{
+    margin-bottom: 2rem;
+}
+.back-button{
+    width: 5rem;
+    padding: 0.4rem 1rem;
+    background-color: var(--DarkModeElements);
+    border: none;
+    color: var(--LightModeElements);
+    box-shadow: 0 0 3px rgba(0,0,0, 0.7);
+    margin: 2rem 0;
+    border-radius: 5px;
+    cursor: pointer;
+}
